@@ -65,4 +65,5 @@ Assets/screenShots/
 *.JPG.meta
 *.png
 *.png.meta
-test.app/
+test.app/Contents/
+!readme_image/*
